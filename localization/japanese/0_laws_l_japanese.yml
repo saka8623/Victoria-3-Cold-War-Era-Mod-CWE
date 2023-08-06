@@ -1,0 +1,263 @@
+l_japanese:
+
+    law_command_economy:0 "完全計画経済"
+    law_semi_command_economy:0 "部分的な計画経済"
+
+    law_total_separation:0 "完全な分離"
+
+    law_unitary_state:0 "単一国家"
+    law_federal_state:0 "連邦国家"
+    law_politicised_judiciary:0 "政治的な司法"
+    law_partially_politicised_judiciary:0 "いくらか独立した司法"
+    law_independent_judiciary:0 "独立した司法"
+
+    law_no_voting:0 "実際の選挙なし"
+    law_rigged_voting:0 "不正選挙"
+    law_gerrymandered_voting:0 "不公正な選挙区割り"
+    law_harassment_voting:0 "選挙妨害"
+    law_fair_voting:0 "公正な選挙"
+    
+    law_parties_not_allowed:0 "野党の禁止"
+    law_parties_allowed:0 "複数政党制"
+    
+    law_appointed_legislature:0 "任命制の立法府"
+    law_technocratic_legislature:0 "任命制と選挙制の組み合わせの立法府"
+    law_democratic_legislature:0 "選挙制の立法府"
+    
+    law_politicised_bureaucrats:0 "政治的な官僚制"
+    law_elitist_bureaucrats:0 "エリート主義の官僚"
+    law_professional_bureaucrats:0 "職業的官僚"
+    
+    law_weak_financial_regulations:0 "弱い金融規制"
+    law_moderate_financial_regulations:0 "通常の金融規制"
+    law_strong_financial_regulations:0 "強力な金融規制"
+    
+    law_HOS_monarch:0 "君主制"
+    law_HOS_president:0 "大統領制"
+    law_HOS_religious_leader:0 "宗教的リーダー"
+    law_HOS_nationalist_leader:0 "軍事的リーダー"
+    law_HOS_communist_leader:0 "共産主義リーダー"
+    
+    law_HOG_none:0 "元首と首相の分離なし"
+    law_HOG_prime_minister:0 "首相制"
+    law_HOG_president_prime_minister:0 "元首と首相で権力を分かち合う"
+    
+    law_nepotistic_cabinet:0 "縁故主義内閣"
+    law_semi_nepotistic_cabinet:0 "やや縁故主義の内閣"
+    law_meritocratic_cabinet:0 "実力主義内閣"
+    
+    law_executive_supremacy:0 "行政府の優位性"
+    law_legislative_supremacy:0 "議会の優位性"
+    law_constitutional_supremacy:0 "憲法の優位性"
+    
+    law_kangaroo_law:0 "従属的司法"
+    law_civil_law:0 "弱い司法"
+    law_common_law:0 "強い司法"
+    
+    law_peasant_levies:0 "非武装化"
+    
+    law_ethnostate:0 "民族国家"
+    law_national_supremacy:0 "国家至上"
+    law_multicultural:0 "多文化主義"
+    
+    law_no_womens_rights:0 "女性の権利なし"
+    law_some_womens_rights:0 "いくらかの女性の権利"
+    law_full_womens_rights:0 "完全な女性の権利"
+    
+    law_outlawed_dissent:0 "言論の自由なし"
+    law_censorship:0 "検閲された言論"
+    law_limited_free_speech:0 "限定的な言論の自由"
+    law_full_free_speech:0 "完全な言論の自由"
+    
+    law_no_secret_police:0 "秘密警察なし"
+    law_secret_police:0 "秘密警察"
+    
+    law_no_espionage:0 "対外諜報なし"
+    law_defensive_espionage:0 "防諜のみ"
+    law_offensive_espionage:0 "攻勢的諜報も許可"
+    
+    law_lenient_policing:0 "寛大な警察活動"
+    law_balanced_policing:0 "通常の警察活動"
+    law_strict_policing:0 "厳格な警察活動"
+    law_draconian_policing:0 "恐ろしい警察活動"
+    
+    law_slavery_banned:0 "強制収容所の禁止"
+    law_slavery_banned_desc:0 "国には強制収容所はありません"
+    law_slavery_political:0 "強制収容所"
+    law_slavery_political_desc:0 "政治的反体制派は広大な強制収容所に投獄され、強制労働を強いられている。"
+    law_slavery_cultural:0 "文化的抑圧"
+    law_slavery_cultural_desc:0 政府は国内で [concept_culture] or [concept_religion] によって差別されている人を組織的に抑圧しています。""
+    
+    law_trade_unions_banned:0 "労働組合禁止"
+    law_state_trade_unions:0 "国定の労働組合"
+    law_restricted_trade_unions:0 "制限された労働組合"
+    law_full_trade_unions:0 "制限のない労働組合"
+    
+    law_no_war:0 "中立政策"
+    law_defensive_war:0 "防衛戦争のみ"
+    law_offensive_war:0 "いかなる戦争も出来る"
+    
+    law_wmd_banned:0 "大量破壊兵器禁止"
+    law_wmd_allowed:0 "大量破壊兵器許可"
+    
+    law_no_civil_defence_law:0 "民間防衛なし"
+    law_very_weak_civil_defence_law:0 "非常に弱い民間防衛"
+    law_weak_civil_defence_law:0 "弱い民間防衛"
+    law_moderate_civil_defence_law:0 "標準的な民間防衛"
+    law_strong_civil_defence_law:0 "強力な民間防衛"
+    law_very_strong_civil_defence_law:0 "きわめて強力な民間防衛"
+    
+    law_no_space_program:0 "宇宙計画なし"
+    law_space_program:0 "宇宙計画"
+    
+    law_no_social_security:0 "社会保障なし"
+    law_low_social_security:0 "貧弱な社会保障"
+    law_medium_social_security:0 "標準的な社会保障"
+    law_high_social_security:0 "強力な社会保障"
+    
+    law_very_low_anti_corruption:0 "きわめて弱い腐敗防止法"
+    law_low_anti_corruption:0 "弱い腐敗防止法"
+    law_medium_anti_corruption:0 "標準的な腐敗防止法"
+    law_high_anti_corruption:0 "強力な腐敗防止法"
+    law_very_high_anti_corruption:0 "きわめて強力な腐敗防止法"
+    
+    law_state_capitalism:0 "国家資本主義"
+    
+    law_gold_standard:0 "金本位制"
+    law_semi_gold_standard:0 "半金本位制"
+    law_fiat_standard:0 "管理通貨制"
+    
+    law_no_economic_specialisation:0 "経済的特価なし"
+    law_natural_resource_focus:0 "天然資源に焦点を当てる"
+    law_manufacturing_focus:0 "製造業に焦点を当てる"
+    law_services_focus:0 "サービス産業に焦点を当てる"
+    
+    law_taxation_1:0 "きわめて逆進的な税金"
+    law_taxation_2:0 "逆進税"
+    law_taxation_3:0 "比例税"
+    law_taxation_4:0 "累進税"
+    law_taxation_5:0 "きわめて累進的な税金"
+    
+    law_very_deflationary_monetary_policy:0 "きわめてデフレ的な財政政策"
+    law_deflationary_monetary_policy:0 "デフレ的な財政政策"
+    law_neutral_monetary_policy:0 "中立的な財政政策"
+    law_expansionary_monetary_policy:0 "拡大的な財政政策"
+    law_very_expansionary_monetary_policy:0 "きわめて拡大的な財政政策"
+    
+    law_charitable_health_system:0 "非営利の医療"
+    law_private_health_insurance:0 "民間医療"
+    law_public_health_insurance:0 "国家医療"
+    
+    law_religious_schools:0 "非営利の学校"
+    law_private_schools:0 "民間学校"
+    law_public_schools:0 "国家学校"
+    
+    law_nationalist_fp:0 "国家主義的外交政策"
+    law_regionalist_fp:0 "地域主義的外交政策"
+    law_globalist_fp:0 "グローバリズム外交政策"
+    
+    law_pro_consumer_regulations:0 "消費者寄りの規制"
+    law_balanced_regulations:0 "バランス主義的な規制"
+    law_pro_industry_regulations:0 "産業よりの規制"
+    
+    law_no_environment_law:0 "排出規制なし"
+    law_weak_environment_law:0 "弱い排出規制"
+    law_moderate_environment_law:0 "通常の排出規制"
+    law_strong_environment_law:0 "強力な排出規制"
+    
+    law_no_nuclear_energy:0 "原子力エネルギー禁止"
+    law_nuclear_energy:0 "原子力エネルギー許可"
+    
+    law_pro_pop_growth_policy:0 "増加に向けた人口政策"
+    law_no_pop_growth_policy:0 "人口政策なし"
+    law_anti_pop_growth_policy:0 "減少に向けた人口政策"
+    
+    power_structure:0 "国家構造"
+    human_rights:0 "政治政策"
+    economy:0 "経済政策"
+    
+    lawgroup_voting_system:0 "投票システム"
+    lawgroup_political_parties:0 "政党"
+    lawgroup_judiciary:0 "司法構造"
+    lawgroup_cabinet_composition:0 "内閣構造"
+    lawgroup_bureaucracy:0 "公務員"
+    lawgroup_army_model:0 "軍隊構造"
+    lawgroup_constitutional_system:0 "憲法制度"
+    lawgroup_legal_system:0 "司法の独立"
+    lawgroup_head_of_state:0 "国家元首"
+    lawgroup_head_of_government:0 "政府首班"
+    lawgroup_legislature:0 "立法府"
+    lawgroup_centralisation:0 "中央集権"
+
+    lawgroup_slavery:0 "人道に対する犯罪"
+    lawgroup_war_policy:0 "防衛政策"
+    lawgroup_policing:0 "警察制度"
+    lawgroup_labor_rights:0 "労働者の権利"
+    lawgroup_migration:0 "移民政策"
+    lawgroup_internal_security:0 "国内の安全保障"
+    lawgroup_free_speech:0 "言論法"
+    lawgroup_corruption_policy:0 "反汚職法"
+    lawgroup_financial_regulations:0 "金融規制"
+    lawgroup_colonization:0 "植民地政策"
+    lawgroup_childrens_rights:0 "児童の権利"
+    lawgroup_wmd_policy:0 "大量破壊兵器政策"
+    lawgroup_civil_defence_policy:0 "民間防衛政策"
+    lawgroup_space_program:0 "宇宙計画"
+    lawgroup_rights_of_women:0 "女性の権利"
+    lawgroup_church_and_state:0 "宗教の権利"
+    lawgroup_citizenship:0 "市民権政策"
+    lawgroup_espionage_policy:0 "諜報政策"
+
+    lawgroup_welfare:0 "福祉政策"
+    lawgroup_trade_policy:0 "貿易政策"
+    lawgroup_taxation:0 "課税政策"
+    lawgroup_monetary_policy:0 "金融政策"
+    lawgroup_industry_regulations:0 "産業規制"
+    lawgroup_environmental_policy:0 "環境政策"
+    lawgroup_energy_policy:0 "エネルギー政策"
+    lawgroup_foreign_policy:0 "外交政策"
+    lawgroup_pop_growth_policy:0 "人口政策"
+    lawgroup_health_system:0 "医療制度"
+    lawgroup_education_system:0 "教育政策"
+    lawgroup_economic_specialisation:0 "経済の専門化"
+    lawgroup_economic_system:0 "経済制度"
+    lawgroup_monetary_system:0 "金融制度"
+    
+    #DESC#
+    
+    #Economic Specialization Laws
+    law_no_economic_specialisation_desc:0 "この国は特定の産業に特化しているわけではありません。"
+    law_natural_resource_focus_desc:0 "この国は天然資源の採取を専門としています。"
+    law_manufacturing_focus_desc:0 "この国は製造業に特化しています。"
+    law_services_focus_desc:0 "この国はサービス産業に特化しています。"
+    
+    #Economic System Laws
+    law_state_capitalism_desc:0 "国家が商業経済活動を引き受け、生産手段が国有化される経済システム"
+    
+    #Energy Policy
+    law_no_nuclear_energy_desc:0 "原子力エネルギーは認められない。"
+    law_nuclear_energy_desc:0 "原子力エネルギーは許可されています。"
+    
+    #Environmental Policy
+    law_no_environment_law_desc:0 "政府には環境を保護する規制や法律はありません。"
+    law_weak_environment_law_desc:0 "政府は環境を保護する規制や法律を比較的弱いものにしています。"
+    law_moderate_environment_law_desc:0 "政府は環境を保護する適度な規制や法律を設けています。"
+    law_strong_environment_law_desc:0 "政府には環境を保護する強力な規制や法律があります。"
+    
+    #Financial Regulation
+    law_weak_financial_regulations_desc:0 "政府の財政法や規制は脆弱です。"
+    law_moderate_financial_regulations_desc:0 "政府には穏健な財政法と規制があります。"
+    law_strong_financial_regulations_desc:0 "政府には強力な財政法と規制があります。"
+    
+    #Foreign Policy
+    law_nationalist_fp_desc:0 "国家の国益のみに焦点を当てた外交政策。"
+    law_regionalist_fp_desc:0 "わが国の属する地域の隣国との関係を構築することを目的とした外交政策。"
+    law_globalist_fp_desc:0 "相互につながったより大きな世界との関係を構築することを目的とした外交政策。"
+    
+    #Industry Regulation
+    law_pro_consumer_regulations_desc:0 "政府は業界ではなく消費者に有利な規制を導入しています。"
+    law_balanced_regulations_desc:0 "政府は、消費者と業界の権利のバランスを取ることを目的とした規制を設けています。"
+    law_pro_industry_regulations_desc:0 "政府は消費者よりも産業部門に有利な規制を導入しています。"
+    
+    #Monetary Policy
+    law_deflationary_monetary_policy_desc:0 "政府は国家予算の均衡を目指している。"
